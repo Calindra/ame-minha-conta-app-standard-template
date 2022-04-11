@@ -4,3 +4,5 @@ folder.hash
 .DS_Store
 /cookie.json
 /miniApp.zip
+.dccache
+/.dccache
