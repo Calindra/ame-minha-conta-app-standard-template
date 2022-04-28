@@ -6,13 +6,11 @@ export default class Home {
     this.state = {
       links: [
         {
-          title: "About",
-          subtitle: "Última versão dos componentes",
+          title: "Sobre",
           to: "/About",
         },
         {
-          title: "More",
-          subtitle: "Saber Mais",
+          title: "Saiba mais",
           to: "/More",
         },
       ]
